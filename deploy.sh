@@ -1,4 +1,2 @@
-this is new file
-previously committed files are moved to staging area
-remote to local repository firstly use git remote -v
-git pull surl master
+am adding new line over master branch
+the file is saved in deploy.sh

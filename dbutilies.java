@@ -1,4 +1,1 @@
-working area to staging area
-git init
-ls -la
-git commit -m "committed"
+am adding new line over master branch
